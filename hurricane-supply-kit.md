@@ -1,0 +1,24 @@
+#Hurricane Supply Kit
+
+-[] Flashlights
+-[] Battery-operated radio
+-[] Batteries (AAA)
+-[] Batteries (AA)
+-[] Batteries (C)
+-[] Batteries (D)
+-[] Matches
+-[] First aid kit
+-[] Duct tape
+-[] Rain gear
+-[] Battery-operated clock
+-[] Plastic garbage bags
+-[] Fire extinguisher
+-[] Can opener
+-[] Clean clothes
+-[] Extra blankets and pillows
+-[] Heavy gloves
+-[] Multi-purpose tool (or axe)
+-[] Find sandbag locations
+-[] Check evacuation routes
+-[] Write down emergency numbers
+-[] Write down emergency information (insurance, etc.)
