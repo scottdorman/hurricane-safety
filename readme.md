@@ -34,6 +34,7 @@ I've tried to put together general resources, such as preparedness checklists, e
 # More information
 
 - [Hurricane and typhoon Terminology](terminology.md)
+- [Hurricane websites and resources](national-resources.md)
 - [Storm surge information](storm-surge-information.md)
 - [What to do](what-to-do.md)
 - Checklists
@@ -46,3 +47,7 @@ I've tried to put together general resources, such as preparedness checklists, e
 - [Food safety](food-safety.md)
 - [How to properly sandbag for flood protection](sandbags.md)
 - [How to prevent sewer backup](sewage-backup.md)
+
+# State and county resources
+
+- [Florida](resources/florida.md)
