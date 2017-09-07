@@ -43,3 +43,6 @@ I've tried to put together general resources, such as preparedness checklists, e
   - [Medical items](medical.md)
   - [Keeping pets safe](keeping-pets-safe.md)
 - [Filing insurance claims](filing-insurance-claims.md)
+- [Food safety](food-safety.md)
+- [How to properly sandbag for flood protection](sandbags.md)
+- [How to prevent sewer backup](sewage-backup.md)
