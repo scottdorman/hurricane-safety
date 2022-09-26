@@ -1,5 +1,7 @@
 # Food safety
 
+Cook any meats or other perishable foods in advance. You can freeze cooked food. Hard boil eggs for snacks.
+
 If you have to evacuate your home, you have no way of knowing if power was lost but restored prior to coming back home. That means you don't know if your frozen food thawed and then refroze or if your refrigerated items became room temperature before cooling again.
 
 Here's an easy way to know.

@@ -4,13 +4,13 @@ Having a plan in place ahead of time is important. Here are some things to keep 
 
 #### What to do before a hurricane
 
-- **Charge electronic devices** This includes laptops, tablets, phones, portable batteries.
-- **Charge any device that provides light** This also includes laptops, tablets, cameras, video cameras, cell phones, even old phones. Old cell phones can still be used for dialing 911. Glow sticks can also provide light for a few hours (stand them upgright in a glass or jar to make a lantern).
+- **Charge electronic devices** This includes laptops, tablets, phones, and portable batteries.
+- **Charge any device that provides light** This also includes laptops, tablets, cameras, video cameras, cell phones, even old phones. Old cell phones can still be used for dialing 911. Glow sticks can also provide light for a few hours (stand them upgright in a glass or jar to make a lantern). Make sure you have working flashlights and extra batteries.
 - **Plan ahead with an emergency kit.** This should include food, water, medical items and important documents.
-- **Make a communication plan.** Find a friend or relative who lives out of the state that everyone can contact to let them know you are safe. Make sure everyone has a cell phone and portable phone charger, coins or a prepaid phone card. Use social media, including Facebook's [Safety Check](https://www.facebook.com/about/safetycheck/), feature to let friends and other family know you're safe. Check on all family members, set up emergency back up plans, and check on elderly neighbors.
+- **Make a communication plan.** Find a friend or relative who lives out of the state that everyone can contact to let them know you are safe. Make sure everyone has a cell phone and portable phone charger, coins or a prepaid phone card. Use social media, including Facebook's [Crisis Response](https://www.facebook.com/crisisresponse/), feature to let friends and other family know you're safe. Check on all family members, set up emergency back up plans, and check on elderly neighbors.
 - **Unplug** Just before the storm, unplug electronics. There will be power surges during and after the storm. If the power does go out, make sure lights and ceiling fans are turned off. Turn off any televisions or other devices. Turn up the air conditioning (if possible). The more devices that are pluged in/turned on when the power gets restored the more instaneous load is placed on the electrical grid, which can cause additional power outages as electrical equipment fails due to massive surge loads.
-- **Gas up** Make sure vehicles have a full tank of gas or a full charge and that you have at least a spare gas container for your car. If you have a generator, makes sure it's full and that you have spare fuel if possible.
-- **Cook foods** Cook any meats or other perishable foods in advance. You can freeze cooked food. Hard boil eggs for snacks.
+- **Gas up** Make sure vehicles have a full tank of gas or a full charge and that you have at least a spare gas container for your car. If you have a generator, makes sure it's full and that you have spare fuel if possible. Rememebr, hybrid and electric vehicles can usually also be used to charge electronic devices without using up a lot of gas or charge for themselves.
+- **Food safety** See [Food safety](food-safety.md) for more information.
 - **Hydrate** Be well hydrated before the storm hits, and avoid foods that will make you dehydrated.
 - **Get clean** Wash all dirty clothes and bed sheets. Anything dirty will smell without the A/C. Toss any expiring food, clean cat litter boxes, empty all trash cans, including bathrooms. Remove anything that ight cause an odor when the A/C it off. If you don't have a trash day pickup before the storm, find a dumpster. Scrub all bathrooms so you're starting with a clean, odor free environment. Store water filled trash cans next to each toilet for flushing. Clean all counters. Buy Clorox Wipes (or similar) for cleaning when there is no power. Mop your floors and vacuum. Run your dishwasher, don't risk having dirty, smelly dishes.
 - **Paper plates and plastic cups** Have a supply of paper plates, plastic cups, and plastic utensils to use for eating. These don't need to be washed.
@@ -24,7 +24,6 @@ Having a plan in place ahead of time is important. Here are some things to keep 
 - **Important records** Place everything you own that is important and necessary in a backpack or small box that is easy to grab. Include your wallet with ID, phone, hand sanitizer, snacks, etc. Get plastic sleeves for important documents.
 - **Cash is king** Make sure you have cash on hand
 - **Don't forget the pets** Stock up on pet food and fill up bowls of water for your pets. If you have to evacuate, remember pets are family too! Take them with you!
-- **Freeze a coin in a cup** Freeze a cup of water, place a coin on top after it is frozen and keep it in your freezer. This will help you gauge the freezer temperature if the power goes out. If the coin stays on top, the food stayed frozen; if the coin falls into the water, the freezer thawed out and most food will likely need to be thrown away. This is very helpful if you have to leave and come back, as it may appear everything is still frozen, but if the coin is in the cup you'll know
 
 #### What to do during a hurricane
 
