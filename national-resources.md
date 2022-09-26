@@ -10,3 +10,4 @@
 - [U.S. Food & Drug Administration Hurricane Safety Resources](https://www.fda.gov/NewsEvents/PublicHealthFocus/ucm317232.htm)
 - [American Red Cross Hurricane Safety](http://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane)
 - [National Hurricane Center Hurricane Preparedness](http://www.nhc.noaa.gov/prepare/ready.php)
+- [Tropical Tidbits](https://www.tropicaltidbits.com/)
