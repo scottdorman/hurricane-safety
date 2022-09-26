@@ -20,7 +20,7 @@
 >A hurricane with winds greater than 110 mph (category 3 or higher on the Saffir Simpson hurricane wind scale).
 
 **Typhoon**
->A tropical cyclone that forms in the Pacific Ocean between 180° and 100°E. Typhoons are similar to hurricanes, and require winds 74 mph (64 knots) or greater.
+>A tropical cyclone that forms in the Pacific Ocean between 180&deg; and 100&deg;E. Typhoons are similar to hurricanes, and require winds 74 mph (64 knots) or greater.
 
 **Super Typhoon**
 >A tropical cyclone in the Northwestern Pacific with winds of 114 mph (130 kt) or greater (category 4 or greater on the Saffir Simpson hurricane wind scale) is designated a "Super Typhoon."
