@@ -18,4 +18,4 @@ After the flooding is over you can remove the sandbags.
 
 During the hurricane season, you may want to save your sandbags in case you need them again. Store them in a dry area out of the sun to prevent deterioration (a garage, shed or under a tarp) and off the ground as sandbags can cause staining on concrete or pool decks. When you do dispose of them, since many contain sand or sandy dirt, simply add the contents to your yard or garden.
 
-Even if you aren’t located on the coast, you may experience flooding during a severe thunderstorm or a prolonged period of daily rains.
+Even if you aren't located on the coast, you may experience flooding during a severe thunderstorm or a prolonged period of daily rains.
